@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Users/zachary/stable-diffusion-webui/.claude/hooks/check-gstack.sh"
+          }
+        ]
+      }
+    ]
+  }
+}
